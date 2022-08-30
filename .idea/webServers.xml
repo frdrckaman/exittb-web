@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cecc6b55-de15-412d-8553-497a9bc9bd48" name="exittb.org">
+        <fileTransfer rootFolder="/var/www/exit-tb.org/public_html/" accessType="SFTP" host="195.110.58.19" port="22" sshConfigId="471877ee-9ef5-45f9-8673-ab4c6bcc9f5f" sshConfig="root@195.110.58.19:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
